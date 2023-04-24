@@ -82,6 +82,10 @@ header {
   display: none;
 }
 
+.logo {
+  margin-left: 30px;
+}
+
 /* Tablet View */
 @media (max-width: 768px) {
   .col {
